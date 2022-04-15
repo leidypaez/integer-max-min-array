@@ -58,4 +58,5 @@ __Salida de los datos__
 console.log(calc(array, 0, 3));
 console.log(calc(array, 1,4));
 ```
-![imagen]()
+________________________________________
+![imagen](https://github.com/leidypaez/integer-max-min-array/blob/main/img/image.png)
