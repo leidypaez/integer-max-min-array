@@ -18,18 +18,3 @@ function calc(array, value1, value2){
 
 console.log(calc(array, 0, 3));
 console.log(calc(array, 1,4));
-
-
-
-
-// SEGUNDO EJERCICIO
- let numeros = [4, 3, 2, 1, 3];
-
- let minimo = numeros[0];
-
- for (var i = 0; i < numeros.length ; i++) {
-     if (numeros[i] < minimo[3]) {
-        minimo = numeros[i];
-     }
- }
-// console.log('Valor mínimo: ' + minimo);
